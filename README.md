@@ -40,6 +40,6 @@ and I can't find anywhere in any of them that `System.Enum.GetValues(Type)` is c
 transient calls looking through the source of called reflection methods.
 
 Kiota GetEnumValue<T> implementations:
-kiota-serialization-form-dotnet - [FormParseNode.cs](https://github.com/microsoft/kiota-serialization-form-dotnet/blob/2d9b8a3476b0619478e19fa920baebc303158037/src/FormParseNode.cs#L206)
-kiota-serialization-json-dotnet - [JsonParseNode.cs](https://github.com/microsoft/kiota-serialization-json-dotnet/blob/7492e10c9f29cd63c4c3a6115698a9db1fc71896/src/JsonParseNode.cs#L156)
-kiota-serialization-text-dotnet - [TextParseNode.cs](https://github.com/microsoft/kiota-serialization-text-dotnet/blob/b6109dd61da7c8d3aa6c77b40d64891b0c218ec7/src/TextParseNode.cs#L81)
+- kiota-serialization-form-dotnet - [FormParseNode.cs](https://github.com/microsoft/kiota-serialization-form-dotnet/blob/2d9b8a3476b0619478e19fa920baebc303158037/src/FormParseNode.cs#L206)
+- kiota-serialization-json-dotnet - [JsonParseNode.cs](https://github.com/microsoft/kiota-serialization-json-dotnet/blob/7492e10c9f29cd63c4c3a6115698a9db1fc71896/src/JsonParseNode.cs#L156)
+- kiota-serialization-text-dotnet - [TextParseNode.cs](https://github.com/microsoft/kiota-serialization-text-dotnet/blob/b6109dd61da7c8d3aa6c77b40d64891b0c218ec7/src/TextParseNode.cs#L81)
