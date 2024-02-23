@@ -1,0 +1,4 @@
+[submodule "submodules/dotnet-sdk"]
+	path = submodules/dotnet-sdk
+	url = git@github.com:hwoodiwiss/dotnet-sdk.git
+	branch = hwoodiwiss-kiota-update
